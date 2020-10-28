@@ -1,0 +1,21 @@
+.border--gradient {
+  padding: 2px;
+  background: -webkit-gradient(linear, right top, left top, color-stop(7.47%, #9ee969), color-stop(97.02%, #1ea85d));
+  background: linear-gradient(to left, #9ee969 7.47%, #1ea85d 97.02%);
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  border-radius: 18px;
+}
+
+.a-btn {
+  -webkit-box-shadow: 0px 3px 30px rgba(0, 0, 0, 0.1);
+          box-shadow: 0px 3px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  width: 240px;
+  height: 75px;
+}
+/*# sourceMappingURL=my-style.css.map */
